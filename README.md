@@ -2,7 +2,7 @@
 
 The configuration file with automatic backup , can be restored to the specified revision.
 
-![screenshot](https://raw.githubusercontent.com/nobuhito/atom-gmail-checker/master/screencast.gif)
+![screenshot](https://raw.githubusercontent.com/nobuhito/auto-backup-settings/master/screencast.gif)
 
 
 ## Usage
