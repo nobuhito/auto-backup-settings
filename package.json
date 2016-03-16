@@ -3,7 +3,7 @@
   "main": "./lib/auto-backup-settings",
   "version": "0.0.0",
   "description": "The configuration files with automatic backup. Can be restored to the specified revision.",
-  "repository": "https://github.com/atom/auto-backup-settings",
+  "repository": "https://github.com/nobuhito/auto-backup-settings",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
