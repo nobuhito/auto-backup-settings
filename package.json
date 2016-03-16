@@ -1,0 +1,16 @@
+{
+  "name": "auto-backup-settings",
+  "main": "./lib/auto-backup-settings",
+  "version": "0.0.0",
+  "description": "The configuration files with automatic backup. Can be restored to the specified revision.",
+  "repository": "https://github.com/atom/auto-backup-settings",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+    "atom-space-pen-views": "^2.1.0",
+    "cson": "^3.0.2",
+    "underscore-plus": "^1.6.6"
+  }
+}
